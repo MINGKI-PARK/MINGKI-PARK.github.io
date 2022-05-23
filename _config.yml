@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "MINGKI's World!"
+title                    : "밍키's World!"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "sin prisa pero sin pausa"
 name                     : "MINGKI"
 description              : "a.k.a 요술공듀"
 url                      : "https://MINGKI-PARK.github.io"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MINGKI"
+  name             : "밍키"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "a.k.a 요술공듀"
   location         : "Seoul"
@@ -288,3 +288,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
